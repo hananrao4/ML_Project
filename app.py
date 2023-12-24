@@ -3,7 +3,7 @@ from src.mlproject.exception import CustomException
 import sys
 from src.mlproject.components.data_ingestion import DataIngestion
 from src.mlproject.components.data_ingestion import DataIngestionConfig
-from src.mlproject.components.data_transformation import DataTransformationConfig,DataTransformation
+from src.mlproject.components.data_transformation import DataTransformation
 
 if __name__=="__main__":
     logging.info('The execution has been started')
