@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/ML_Project/mlruns/0/b2b427bee65a485392f16312d5cfd79b/artifacts
+end_time: 1703460967827
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b2b427bee65a485392f16312d5cfd79b
+run_name: chill-croc-245
+run_uuid: b2b427bee65a485392f16312d5cfd79b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1703460961412
+status: 3
+tags: []
+user_id: Rao Hanan Akram

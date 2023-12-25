@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/ML_Project/mlruns/0/0d187a5d6017484e8963505e9ff71b81/artifacts
+end_time: 1703456444959
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0d187a5d6017484e8963505e9ff71b81
+run_name: skittish-wren-249
+run_uuid: 0d187a5d6017484e8963505e9ff71b81
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1703456440957
+status: 3
+tags: []
+user_id: Rao Hanan Akram

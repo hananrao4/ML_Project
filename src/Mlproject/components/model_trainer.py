@@ -16,6 +16,7 @@ from sklearn.neighbors import KNeighborsRegressor
 from sklearn.tree import DecisionTreeRegressor
 from xgboost import XGBRegressor
 import mlflow
+import mlflow.sklearn
 
 from src.mlproject.exception import CustomException
 from src.mlproject.logger import logging

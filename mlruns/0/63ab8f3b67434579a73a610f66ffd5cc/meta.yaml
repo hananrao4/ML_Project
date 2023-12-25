@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/ML_Project/mlruns/0/63ab8f3b67434579a73a610f66ffd5cc/artifacts
+end_time: 1703462532434
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 63ab8f3b67434579a73a610f66ffd5cc
+run_name: capricious-stork-922
+run_uuid: 63ab8f3b67434579a73a610f66ffd5cc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1703462526513
+status: 3
+tags: []
+user_id: Rao Hanan Akram

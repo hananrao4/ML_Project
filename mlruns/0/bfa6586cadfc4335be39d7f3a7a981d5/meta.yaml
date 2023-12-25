@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/ML_Project/mlruns/0/bfa6586cadfc4335be39d7f3a7a981d5/artifacts
+end_time: 1703454285673
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bfa6586cadfc4335be39d7f3a7a981d5
+run_name: persistent-ram-855
+run_uuid: bfa6586cadfc4335be39d7f3a7a981d5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1703454280910
+status: 3
+tags: []
+user_id: Rao Hanan Akram

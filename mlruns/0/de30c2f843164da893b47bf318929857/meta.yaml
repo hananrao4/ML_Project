@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/ML_Project/mlruns/0/de30c2f843164da893b47bf318929857/artifacts
+end_time: 1703457202753
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: de30c2f843164da893b47bf318929857
+run_name: lyrical-smelt-313
+run_uuid: de30c2f843164da893b47bf318929857
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1703457199203
+status: 3
+tags: []
+user_id: Rao Hanan Akram
